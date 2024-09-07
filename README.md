@@ -18,6 +18,8 @@ A journey through large climate files
 
 [julia: What would be the best approach to handle large NetCDF sets?](https://discourse.julialang.org/t/what-would-be-the-best-approach-to-handle-large-netcdf-sets/102091/11)
 
+[Extracting data from netcdf stacked file](https://discourse.julialang.org/t/extracting-data-from-netcdf-stacked-file/90927)
+
 [NCDatasets.jl](https://github.com/Alexander-Barth/NCDatasets.jl)
 
 [YAXArrays.jl](https://github.com/JuliaDataCubes/YAXArrays.jl)
@@ -34,6 +36,10 @@ A journey through large climate files
 
 
 **Python:**
+
+[XARRAY Advanced Indexing](https://stackoverflow.com/questions/69330668/efficient-way-to-extract-data-from-netcdf-files)
+
+[More Advanced Indexing](https://docs.xarray.dev/en/stable/user-guide/indexing.html#more-advanced-indexing)
 
 [Python Training from Unidata](https://github.com/Unidata/python-training/tree/master)
 
