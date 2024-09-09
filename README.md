@@ -1,6 +1,7 @@
 # BIG
 A journey through large climate files
 
+[Dask Arrays with Xarray](https://foundations.projectpythia.org/core/xarray/dask-arrays-xarray.html)
 
 [Unidata Chunking Data: Why it Matters](https://www.unidata.ucar.edu/blogs/developer/entry/chunking_data_why_it_matters)
 
