@@ -4,7 +4,9 @@ A journey through large climate files
 
 ##### [ARCO ERA5](https://github.com/google-research/arco-era5)
 
-
+ar - An ML-ready, unified (surface & atmospheric) version of the data in Zarr. (Analysis Ready)
+co - A port of gaussian-gridded ERA5 data to Zarr. (Cloud Optimized)
+raw - All raw grib & NetCDF data.
 
 
 [Cookbooks] (https://cookbooks.projectpythia.org)
