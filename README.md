@@ -1,6 +1,12 @@
 # BIG
 A journey through large climate files
 
+
+##### [ARCO ERA5](https://github.com/google-research/arco-era5)
+
+
+
+
 [Cookbooks] (https://cookbooks.projectpythia.org)
 
 [Dask Arrays with Xarray](https://foundations.projectpythia.org/core/xarray/dask-arrays-xarray.html)
@@ -15,6 +21,9 @@ A journey through large climate files
 
 >The elasped time spent to extract your slice strongly depends on how your data has been stored (how the dimensions are organized):
 
+Intel(R) Xeon(R) w5-3425   3.19 GHz
+12 cores
+64 GB RAM
 
 
 **Julia**
@@ -69,4 +78,5 @@ A journey through large climate files
 [Resample xarray object to lower resolution spatially](https://stackoverflow.com/questions/53886153/resample-xarray-object-to-lower-resolution-spatially/53952389#53952389)
 
 [Python: How to write large netcdf with xarray](https://stackoverflow.com/questions/69810367/python-how-to-write-large-netcdf-with-xarray)
+
 
