@@ -9,7 +9,12 @@ co - A port of gaussian-gridded ERA5 data to Zarr. (Cloud Optimized)
 raw - All raw grib & NetCDF data.
 
 
-[Cookbooks] (https://cookbooks.projectpythia.org)
+[Cookbooks](https://cookbooks.projectpythia.org)
+
+
+[Parallelizing Xarray with Dask](https://github.com/ProjectPythia/dask-cookbook/blob/main/notebooks/03-dask-xarray.ipynb)
+[Notebook w/ some dask info](https://github.com/ProjectPythia/ERA5_interactive-cookbook/blob/main/notebooks/06_era5_anomaly.ipynb)
+[Using dask with ECMWF API](https://github.com/rsignell-usgs/pangeo_showcase_20221012/blob/main/00_era5_test_api.ipynb)
 
 [Dask Arrays with Xarray](https://foundations.projectpythia.org/core/xarray/dask-arrays-xarray.html)
 
@@ -82,3 +87,6 @@ Intel(R) Xeon(R) w5-3425   3.19 GHz
 [Python: How to write large netcdf with xarray](https://stackoverflow.com/questions/69810367/python-how-to-write-large-netcdf-with-xarray)
 
 
+**Visualization**
+
+https://projectpythia.org/advanced-viz-cookbook/notebooks/1-comparison.html
