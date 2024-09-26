@@ -11,6 +11,7 @@ raw - All raw grib & NetCDF data.
 
 [Cookbooks](https://cookbooks.projectpythia.org)
 
+[Xarray Tutorial](https://tutorial.xarray.dev/intro.html)
 
 [Parallelizing Xarray with Dask](https://github.com/ProjectPythia/dask-cookbook/blob/main/notebooks/03-dask-xarray.ipynb)
 [Notebook w/ some dask info](https://github.com/ProjectPythia/ERA5_interactive-cookbook/blob/main/notebooks/06_era5_anomaly.ipynb)
@@ -32,6 +33,30 @@ Intel(R) Xeon(R) w5-3425   3.19 GHz
 12 cores
 64 GB RAM
 
+**Climatology**
+
+[Calculating Climatologies and Anomalies with Xarray and Dask:](https://nbviewer.org/gist/rabernat/30e7b747f0e3583b5b776e4093266114)
+
+
+[Optimizing climatology calculation with Xarray and Dask](https://discourse.pangeo.io/t/optimizing-climatology-calculation-with-xarray-and-dask/2453)
+
+
+[Strategies for climatology calculations](https://flox.readthedocs.io/en/latest/user-stories.html)
+
+[Best practices to go from 1000s of netcdf files to analyses on a HPC cluster?](https://discourse.pangeo.io/t/best-practices-to-go-from-1000s-of-netcdf-files-to-analyses-on-a-hpc-cluster/588/39)
+
+
+**Analysis ready kerchunk**
+
+[pywren.io](http://pywren.io)
+
+[Kerchunk Tutorial 2022-04-25](https://github.com/lsterzinger/2022-esip-kerchunk-tutorial/blob/main/01-Create_References.ipynb)
+
+[Using AWS Lambda and PyWren for Landsat 8 Time Series](https://github.com/aws-samples/pywren-workshops/blob/master/Lab-4-Landsat-NDVI/Landsat_NDVI_Timeseries.ipynb)
+
+[Accessing NetCDF and GRIB file collections as cloud-native virtual datasets using Kerchunk](https://medium.com/pangeo/accessing-netcdf-and-grib-file-collections-as-cloud-native-virtual-datasets-using-kerchunk-625a2d0a9191)
+
+[Cloud-Performant NetCDF4/HDF5 with Zarr, Fsspec, and Intake](https://medium.com/pangeo/cloud-performant-netcdf4-hdf5-with-zarr-fsspec-and-intake-3d3a3e7cb935)
 
 **Julia**
 
