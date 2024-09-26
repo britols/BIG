@@ -19,6 +19,12 @@ raw - All raw grib & NetCDF data.
 
 [Dask Resources](https://scrapbox.io/pycoaj/dask)
 
+[climtas: Climate Timeseries Analysis](https://climtas.readthedocs.io/en/latest/)
+Climtas is a package for working with large climate analyses. It focuses on the time domain with custom functions for Xarray and Dask data.
+
+
+
+
 [grid metrics (vorticity, divergent, etc)](https://xgcm.readthedocs.io/en/latest/grid_metrics.html)
 
 [Parallelizing Xarray with Dask](https://github.com/ProjectPythia/dask-cookbook/blob/main/notebooks/03-dask-xarray.ipynb)
