@@ -19,6 +19,8 @@ raw - All raw grib & NetCDF data.
 
 [Dask Resources](https://scrapbox.io/pycoaj/dask)
 
+[Parallel Programming in Climate and Weather](https://coecms-training.github.io/parallel/README.html)
+
 [climtas: Climate Timeseries Analysis](https://climtas.readthedocs.io/en/latest/)
 Climtas is a package for working with large climate analyses. It focuses on the time domain with custom functions for Xarray and Dask data.
 
