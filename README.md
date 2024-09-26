@@ -11,10 +11,20 @@ raw - All raw grib & NetCDF data.
 
 [Cookbooks](https://cookbooks.projectpythia.org)
 
+**XARRAY**
+
 [Xarray Tutorial](https://tutorial.xarray.dev/intro.html)
 
+**DASK**
+
+[Dask Resources](https://scrapbox.io/pycoaj/dask)
+
+[grid metrics (vorticity, divergent, etc)](https://xgcm.readthedocs.io/en/latest/grid_metrics.html)
+
 [Parallelizing Xarray with Dask](https://github.com/ProjectPythia/dask-cookbook/blob/main/notebooks/03-dask-xarray.ipynb)
+
 [Notebook w/ some dask info](https://github.com/ProjectPythia/ERA5_interactive-cookbook/blob/main/notebooks/06_era5_anomaly.ipynb)
+
 [Using dask with ECMWF API](https://github.com/rsignell-usgs/pangeo_showcase_20221012/blob/main/00_era5_test_api.ipynb)
 
 [Dask Arrays with Xarray](https://foundations.projectpythia.org/core/xarray/dask-arrays-xarray.html)
@@ -45,6 +55,8 @@ Intel(R) Xeon(R) w5-3425   3.19 GHz
 
 [Best practices to go from 1000s of netcdf files to analyses on a HPC cluster?](https://discourse.pangeo.io/t/best-practices-to-go-from-1000s-of-netcdf-files-to-analyses-on-a-hpc-cluster/588/39)
 
+
+[Global Mean Surface Temperature](https://gallery.pangeo.io/repos/pangeo-gallery/cmip6/global_mean_surface_temp.html)
 
 **Analysis ready kerchunk**
 
