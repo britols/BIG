@@ -8,6 +8,11 @@ ar - An ML-ready, unified (surface & atmospheric) version of the data in Zarr. (
 co - A port of gaussian-gridded ERA5 data to Zarr. (Cloud Optimized)
 raw - All raw grib & NetCDF data.
 
+https://medium.com/pangeo/rechunker-the-missing-link-for-chunked-array-analytics-5b2359e9dc11
+https://medium.com/pangeo/cloud-performant-netcdf4-hdf5-with-zarr-fsspec-and-intake-3d3a3e7cb935
+https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685
+https://medium.com/pangeo/using-kerchunk-with-uncompressed-netcdf-64-bit-offset-files-cloud-optimized-access-to-hycom-ocean-9008ba6d0d67
+https://www.coiled.io/
 
 [Cookbooks](https://cookbooks.projectpythia.org)
 
