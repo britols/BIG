@@ -8,6 +8,8 @@ ar - An ML-ready, unified (surface & atmospheric) version of the data in Zarr. (
 co - A port of gaussian-gridded ERA5 data to Zarr. (Cloud Optimized)
 raw - All raw grib & NetCDF data.
 
+[raven - Development of an ERA5 cloud storage for efficient access #396](https://github.com/Ouranosinc/raven/issues/396)
+
 https://medium.com/pangeo/rechunker-the-missing-link-for-chunked-array-analytics-5b2359e9dc11
 https://medium.com/pangeo/cloud-performant-netcdf4-hdf5-with-zarr-fsspec-and-intake-3d3a3e7cb935
 https://medium.com/pangeo/fake-it-until-you-make-it-reading-goes-netcdf4-data-on-aws-s3-as-zarr-for-rapid-data-access-61e33f8fe685
