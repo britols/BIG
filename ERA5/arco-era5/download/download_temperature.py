@@ -28,7 +28,7 @@ def download_year(year,data_in_cloud):
         print(f"Processing year: {year}")
 
         date_i = f'{year}-01-01'
-        date_f = f'{year}-01-05'
+        date_f = f'{year}-12-31'
         latN = 90
         latS = 20
         lonW = -150
@@ -73,9 +73,7 @@ if __name__ == "__main__":
     data_in_cloud = load_cloud_data()
 
     try:
-        years = ['2019','2020']
-
-        for year in years:
+        for year in range(1940,2023):
             download_year(year,data_in_cloud)
 
     finally:
