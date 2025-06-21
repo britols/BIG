@@ -60,6 +60,7 @@ Intel(R) Xeon(R) w5-3425   3.19 GHz
 
 **Climatology**
 
+[Getting Seasonal Means for the season December-January-February](https://coecms.github.io/posts/2023-11-04-seasonal-means.html)
 [Calculating Climatologies and Anomalies with Xarray and Dask:](https://nbviewer.org/gist/rabernat/30e7b747f0e3583b5b776e4093266114)
 
 
